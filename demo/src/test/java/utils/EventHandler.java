@@ -30,6 +30,8 @@ public class EventHandler implements WebDriverListener {
         }
     }
 
+    
+
     @Override
     public void beforeClick(WebElement element) {
         WebDriverListener.super.beforeClick(element);
