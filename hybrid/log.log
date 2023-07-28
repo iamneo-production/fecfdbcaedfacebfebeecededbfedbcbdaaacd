@@ -1,8 +1,4 @@
-Products
-[{duration=100, x=0, y=0, type=pointerMove, origin=[[RemoteWebDriver: chrome on LINUX (23d92b1d4541c2a232c1b6381aacd852)] -> xpath: //*[@id="headerMenu"]/div/nav/div/div[2]/button/span]}]
-MACH3
-EXPLORE
-Products
+Hover Products
 [{duration=100, x=0, y=0, type=pointerMove, origin=[[RemoteWebDriver: chrome on LINUX (1a9ca91f3251d41638f96bb54874991a)] -> xpath: //*[@id="headerMenu"]/div/nav/div/div[2]/button/span]}]
-MACH3
-EXPLORE
+Clicked MACH3
+Clicked EXPLORE
